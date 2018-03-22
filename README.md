@@ -1,2 +1,2 @@
 # veritate
-Agregador de Checagem de Fatos
+Agregador de Checagem de Fatos para o Brasil
