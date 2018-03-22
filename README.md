@@ -1,2 +1,2 @@
 # veritate
-Fact check aggregator
+Agregador de Checagem de Fatos
