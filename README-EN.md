@@ -21,6 +21,10 @@ Developed by [Celso Bessa](https://www.celsobessa.com.br) with infrastructure su
 
 Initially, the project will be comprised by an Crawler/Indexer, Public Index API and Aggregator.
 
+### Veritate Overview
+
+![A Diagram with Veritate Inatiative Overview 0.1.0](images/veritate-overview-diagram-0.1.0.png)
+
 ### Crawler/Indexer
 
 It will crawl, index, evaluate and organize fact check article published in specialized third party websites.

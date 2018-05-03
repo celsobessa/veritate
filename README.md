@@ -22,6 +22,10 @@ Idealizado pelo desenvolvedor <a href="https://www.celsobessa.com.br">Celso Bess
 
 Inicialmente, a iniciativa terá os seguintes componentes: Indexador, Índice Públic/API, e Agregador.
 
+### Visão Geral - Veritate
+
+![Diagrama com Visão Geral da Iniciativa Veritate - Versão 0.1.0](images/veritate-diagrama-visao-geral-0.1.0.png)
+
 ### Indexador
 
 Uma ferramenta para indexação, avaliação e organização de artigos publicados em veículos de checagem de fatos.
