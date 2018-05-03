@@ -1,8 +1,11 @@
 # Veritate - Agregador e Buscador de Checagem de Fatos
 
 Veritate é um projeto um **projeto experimental sem fins lucrativos** de agregador/buscador reunindo artigos diversas agências de **checagem de fatos**.
+<hr>
 
 > **For english version, [click here](README-EN.md).**
+
+<hr>
 
 Prova de conceito tem lançamento previsto para 7 de Maio de 2018.
 
@@ -63,7 +66,7 @@ Não, é um experimento sem fins lucrativos. Caso se torne algo maior, provavelm
 
 ## Histórico de versões / Changelog
 
-O arquivo [CHANGELOG.md](CHANGELOG.md) contém o histórico de versões da iniciativa de uma perspectiva global. Cada componente (e seus possíveis sub-componentes) terão históricos (Changelogs) específicos e mais detalhados
+O arquivo [CHANGELOG.md](CHANGELOG.md) contém o histórico de versões da iniciativa de uma perspectiva global e alterações deste repositório. Cada componente (e seus possíveis sub-componentes) terão históricos (Changelogs) específicos e mais detalhados
 
 ## Como ajudar o projeto
 

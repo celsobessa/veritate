@@ -1,9 +1,11 @@
 # Veritate - Fact Check Search and Aggregator
 
 A **fact checking agregator** for Brazilian news and politics. A non-profit experiment.
+<hr>
 
-- **Para versão em português, [clique aqui](README.md).**
+> **Para versão em português, [clique aqui](README.md).**
 
+<hr>
 Proof of Concept ETA:  May, 7th, 2018.
 
 > For more information, suggestions for fact check sites or to ask for removal of content violating copyright laws, please, send an email to veritate{at}wowperations[dot]com[dot]br
@@ -65,7 +67,7 @@ No, this is a non-profit experiment. We want to make something bigger, but proba
 
 ## Version History / Changelog
 
-Check [CHANGELOG.md](CHANGELOG.md) for the iniatiave as a whole, from a global perspective. Each component -- and it's possible sub components -- will have their own Changelog with specific details.
+Check [CHANGELOG.md](CHANGELOG.md) for change of the iniatiave as a whole, from a global perspective, and for this repository. Each component -- and it's possible sub components -- will have their own Changelog with specific details.
 
 ## Contributing
 
