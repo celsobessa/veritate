@@ -20,7 +20,7 @@ Idealizado pelo desenvolvedor <a href="https://www.celsobessa.com.br">Celso Bess
 - Instigar o compartilhamento de checagens de fatos e o pensamento crítico contra notícias falsas
 - Instigar o pensamento crítico e decisões bem informadas sobre políticas e votos.
 
-Inicialmente, a iniciativa terá os seguintes componentes: Indexador, Índice Públic/API, e Agregador.
+Inicialmente, a iniciativa terá os seguintes componentes: Indexador, Índice Público/API, e Agregador.
 
 ### Visão Geral - Veritate
 
