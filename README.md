@@ -7,8 +7,6 @@ Veritate é um projeto um **projeto experimental sem fins lucrativos** de agrega
 
 <hr>
 
-Prova de conceito tem lançamento previsto para 7 de Maio de 2018.
-
 > Para mais informações, para solicitar a inclusão de um site de checagem ou solicitar exclusão de material que viole direitos autorais, entre em contato através do email veritate{arroba}wowperations[ponto]com[ponto]br
 
 ## Sobre a iniciativa
@@ -20,27 +18,33 @@ Idealizado pelo desenvolvedor <a href="https://www.celsobessa.com.br">Celso Bess
 - Instigar o compartilhamento de checagens de fatos e o pensamento crítico contra notícias falsas
 - Instigar o pensamento crítico e decisões bem informadas sobre políticas e votos.
 
-Inicialmente, a iniciativa terá os seguintes componentes: Indexador, Índice Público/API, e Agregador.
+Inicialmente, a iniciativa terá os seguintes componentes: [Indexador](#indexador), [Índice Público/API](#indice-publico-api), e [Agregador/Busca](#agregador-busca).
 
 ### Visão Geral - Veritate
 
 ![Diagrama com Visão Geral da Iniciativa Veritate - Versão 0.1.0](images/veritate-diagrama-visao-geral-0.1.0.png)
 
-### Indexador
+### <a id="indexador">Indexador</a>
 
 Uma ferramenta para indexação, avaliação e organização de artigos publicados em veículos de checagem de fatos.
 
 No momento, estamos utilizando um serviço de terceiro (Saas) para rastreio (crawl) e raspagem de dados (scrapping) e um sistema próprio para avaliação e organização. É possível que num futuro próximoutilizemos infra-estrutura própria para rastreio/raspagem. Eventualmente, tornaremos o sistema de avaliação público.
 
-### Índice Público (API)
+### <a id="indice-publico-api">Índice Público (API)</a>
 
-Um índice público com informações sobre as checagem de fatos indexadas para consumo por sistemas, que poderão consultá-lo através de uma API REST, com informações apresentadas em JSON.
+Um índice público com informações sobre as checagem de fatos indexadas para **consumo por sistemas**, que poderão consultá-lo através de uma API REST, com informações apresentadas em JSON.
 
 É a partir de sua API que alimentaremos o agregador, e serviços e sistemas de terceiros podem ser criados. Por exemplo, um plugin de WordPress que apresente checagem de fatos para alguma palavra chave sendo usada por um editor de um blog.
 
-### Agregador
+Para saber mais, visite o repositório oficial em [https://github.com/celsobessa/veritate-fact-check-crawler](https://github.com/celsobessa/veritate-fact-check-crawler) .
 
-Uma ferramenta de busca de checagem de fatos, dirigida à pessoas. A ideia é que, por exemplo, uma pessoa procurando a expressão  "Lava Jato" veria uma série de links para checagens de fatos sobre a Operação Lava Jato no sites indexados, e ao clicar em cada link, lerá o conteúdo direto no site original.
+### <a id="agregador-busca">Agregador/Busca</a>
+
+Uma [ferramenta de busca de checagem de fatos](https://veritatesearch.wowperations.com.br/), dirigida à pessoas.
+
+A ideia é que, por exemplo, uma pessoa procurando a expressão  "Lava Jato" veria uma série de links para checagens de fatos sobre a Operação Lava Jato no sites indexados, e ao clicar em cada link, **lerá o conteúdo direto no site original**.
+
+*Uma prova de conceito da busca* pode ser acessada  [aqui](https://veritatesearch.wowperations.com.br/) . Como é um trabalho em progresso, é possível que erros aconteçam e que em alguns momentos a busca não esteja atualizada.
 
 ## Perguntas Frequentes (FAQ - Frequently Asked Questions)
 

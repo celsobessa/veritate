@@ -6,7 +6,6 @@ A **fact checking agregator** for Brazilian news and politics. A non-profit expe
 > **Para versão em português, [clique aqui](README.md).**
 
 <hr>
-Proof of Concept ETA:  May, 7th, 2018.
 
 > For more information, suggestions for fact check sites or to ask for removal of content violating copyright laws, please, send an email to veritate{at}wowperations[dot]com[dot]br
 
@@ -19,27 +18,31 @@ Developed by [Celso Bessa](https://www.celsobessa.com.br) with infrastructure su
 - Instigate fact checking sharing and critical thinking against _fake news_
 - Instigate critical thinking and informed decisions about politics and votes
 
-Initially, the project will be comprised by an Crawler/Indexer, Public Index API and Aggregator.
+Initially, the project will be comprised by an [Crawler/Indexer](#crawler-indexer), [Public Index API](public-index-api) and [Aggregator](aggregator-search).
 
 ### Veritate Overview
 
 ![A Diagram with Veritate Inatiative Overview 0.1.0](images/veritate-overview-diagram-0.1.0.png)
 
-### Crawler/Indexer
+### <a id="crawler-indexer">Crawler/Indexer</a>
 
 It will crawl, index, evaluate and organize fact check article published in specialized third party websites.
 
 Right now we are using a SaaS provider for crawling and scrapping and a tool of our own for evaluation and organization. But we may move crawling/scrapping for our own infrastructure in the future and eventually we will make our own evaluation tools public.
 
-### Public Index API
+### <a id="public-index-api">Public Index API</a>
 
 A public index with information about the index fact checking articles for consumption by third party systems through an REST API with information returned in JSON.
 
 This is the API we are using for our aggregator/search and intended for use by third parties. As an example, a developer could create a WordPress plugin which suggested fact checking articles for certain keywords used by an blog editor.
 
-### Aggregator
+### <a id="aggregator-search">Aggregator/Search</a>
 
-A search tool for people looking for fact checking. The idea is that people find all articles related to a keyword. For example, someone looking for facts about the term "Lava Jato" would find a list with several articles about Operation Lava Jato in all indexed media outlets and by clicking in the links, would read the content in the original websites
+A [search tool](https://veritatesearch.wowperations.com.br/) for people looking for fact checking.
+
+The idea is that people find all articles related to a keyword. For example, someone looking for facts about the term "Lava Jato" would find a list with several articles about Operation Lava Jato in all indexed media outlets and by clicking in the links, would **read the content in the original websites**.
+
+*A proof of concept* (Brazilian Portuguese) can be seen [here](https://veritatesearch.wowperations.com.br/) . As a work in progress, it contains some errors and sometimes it takes a while to update the index.
 
 ## FAQ - Frequently Asked Questions
 
@@ -70,6 +73,8 @@ No. As an API, it just makes data accessible, but it does not count as content f
 No, this is a non-profit experiment. We want to make something bigger, but probably under a NGO or a Foundation like organization.
 
 ## Version History / Changelog
+
+Last version: 0.2.0
 
 Check [CHANGELOG.md](CHANGELOG.md) for change of the iniatiave as a whole, from a global perspective, and for this repository. Each component -- and it's possible sub components -- will have their own Changelog with specific details.
 
