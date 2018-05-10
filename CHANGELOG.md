@@ -16,7 +16,7 @@ This project adheres to [Semantic Versioning](http://semver.org/)
 - Veritate Search proof of concept initital release ( https://veritatesearch.wowperations.com.br/ )
 
 ## Changed
-- updated README.md and README-EN.md files
+- updated README.md and README-EN.md files (with some text revision by BitiAverbach)
 - Improved Veritate Crawler and API
 
 ## 0.1.3 - [2018-05-03]
