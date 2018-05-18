@@ -7,7 +7,7 @@ Veritate é um **projeto experimental sem fins lucrativos** de agregador/buscado
 
 <hr>
 
-> Para mais informações, para solicitar a inclusão de um site de checagem ou solicitar exclusão de material que viole direitos autorais, entre em contato através do email veritate{arroba}wowperations[ponto]com[ponto]br
+> Para mais informações, para solicitar a inclusão de um site de checagem ou solicitar exclusão de material, visite a *[Wiki do Projeto](https://github.com/celsobessa/veritate/wiki)* ou entre em contato através do email veritate{arroba}wowperations[ponto]com[ponto]br
 
 ## Sobre a iniciativa
 
@@ -25,27 +25,7 @@ Inicialmente, a iniciativa terá os seguintes componentes: [Indexador](#indexado
 
 ![Diagrama com Visão Geral da Iniciativa Veritate - Versão 0.1.0](images/veritate-diagrama-visao-geral-0.1.0.png)
 
-### <a id="indexador">Indexador</a>
-
-Uma ferramenta para indexação, avaliação e organização de artigos publicados em veículos de checagem de fatos.
-
-No momento, estamos utilizando um serviço de terceiro (Saas) para rastreio (crawl) e raspagem de dados (scrapping) e um sistema próprio para avaliação e organização. É possível que num futuro próximo utilizemos infra-estrutura própria para rastreio/raspagem. Eventualmente, tornaremos público o sistema de avaliação.
-
-### <a id="indice-publico-api">Índice Público (API)</a>
-
-Um índice público com informações sobre as checagens de fatos indexadas para **consumo por sistemas**, que poderão consultá-lo através de uma API REST, com informações apresentadas em JSON.
-
-É a partir de sua API que alimentaremos o agregador e possibilitaremos a criação de serviços e sistemas por terceiros. Por exemplo, um plugin de WordPress poderia apresentar links de checagem de fatos para palavras-chave usadas no post de um blog.
-
-Para saber mais, visite o repositório oficial em [https://github.com/celsobessa/veritate-fact-check-crawler](https://github.com/celsobessa/veritate-fact-check-crawler) .
-
-### <a id="agregador-busca">Agregador/Busca</a>
-
-Uma [ferramenta de busca](https://veritatesearch.wowperations.com.br/) onde as pessoas irão encontrar links para artigos dos principais sites de checagem de fatos do Brasil.
-
-Por exemplo, uma pessoa que procurar a expressão "Lava Jato" verá uma série de links para checagens de fatos sobre a Operação Lava Jato nos sites indexados, e ao clicar nos links, , **lerá o conteúdo direto no site original**.
-
-*Uma prova de conceito da busca* pode ser acessada  [aqui](https://veritatesearch.wowperations.com.br/) . Como é um trabalho em progresso, é possível que erros aconteçam e que em alguns momentos a busca não esteja atualizada.
+Para saber mais detalhes sobre cada componente, visite a *[Wiki do Projeto](https://github.com/celsobessa/veritate/wiki)*
 
 ## Perguntas Frequentes (FAQ - Frequently Asked Questions)
 
@@ -55,7 +35,14 @@ Neste momento, apenas [Agência Lupa](http://piaui.folha.uol.com.br/lupa/), [Ag�
 
 ### Como posso sugerir um veículo ou ter meu veículo adicionado?
 
-Envie um email para o endereço mencionado acima. Nós vamos indexar apenas sites respeitados ou com bom jornalismo, de acordo com nosso conselho editorial. Temos o plano de criar um guia editorial, mas ainda não sabemos quando ele será publicado.
+Se você quer sugerir algum veículo para ser indexado, abra uma "issue" [no repositório oficial](https://github.com/celsobessa/veritate/issues) com as seguintes informações:
+
+- Nome do Veículo
+- URL do veículo
+- URL da seção de checagens (se diferente da URL principal)
+- Sua relação com o veículo (leitor, autor, editor, publisher, etc)
+
+Você também pode enviar um email para o endereço mencionado acima com as mesmas informações. Nós vamos indexar apenas sites respeitados ou com bom jornalismo, de acordo com nosso conselho editorial. Temos o plano de criar um guia editorial, mas ainda não sabemos quando ele será publicado.
 
 No aspecto tecnológico, nós priorizamos sites usando WordPress e que usem o markup LD+JSON para checagem de fatos. Nosso rastreador e nosso algoritmo privilegia sites rápidos, acessíveis e seguros (usando HTTPS), especialmente os acessíveis facilmente por celulares ou leitores de tela. E se você der permissão expressa podemos apresentar pequenos trechos (entre 140 e 280 caracteres) do artigo de seu site, para que o conteúdo seja rastreado mais rapidamente e tenha prioridade entre os resultados.
 

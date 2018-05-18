@@ -20,6 +20,8 @@ Developed by [Celso Bessa](https://www.celsobessa.com.br) with infrastructure su
 
 Initially, the project will be comprised by an [Crawler/Indexer](#crawler-indexer), [Public Index API](public-index-api) and [Aggregator](aggregator-search).
 
+> If you understand brazilian portuguese, thhere is a *[Wiki](https://github.com/celsobessa/veritate/wiki)* with more in-depth information
+
 ### Veritate Overview
 
 ![A Diagram with Veritate Inatiative Overview 0.1.0](images/veritate-overview-diagram-0.1.0.png)
@@ -52,7 +54,14 @@ Right now, just [Agência Lupa](http://piaui.folha.uol.com.br/lupa/), [Agência 
 
 ### How can my fact check outlet be indexed?
 
-Send an email (the address is above) with the outlet link. We will index only reputable and/or trustworth outlets according to our editorial. An editorial guideline is on roadmap , but we don't know when it will be published.
+You must open an issue [at the project repository](https://github.com/celsobessa/veritate/issues) with the following information
+
+- Outlet name
+- Outlet URL
+- Fact Checking section URL (if different from the main URL)
+- You Relationship with the oulet (reader, author, editor, publisher, etc)
+
+You can also send an email (the address is above) with the required information. We will index only reputable and/or trustworth outlets according to our editorial. An editorial guideline is on roadmap , but we don't know when it will be published.
 
 In the technological side, we give priority to websites using WordPress and using the Fact Check schema in a LD+JSON markup. Our crawler and algorithms also prefer faster, accessible and secure (HTTPS) websites, specially those easily accessible by mobile phones and screenreaders.
 

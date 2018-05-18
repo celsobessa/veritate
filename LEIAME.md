@@ -2,4 +2,4 @@
 
 Agregador de Checagem de Fatos para o Brasil. Prova de conceito prevista para 7 de Maio de 2018.
 
-> *As informações do projeto, em português, [estão no arquivo README.md](README.md).*
+> As informações do projeto, em português, *[estão no arquivo README.md](README.md).* ou na *[Wiki do Projeto](https://github.com/celsobessa/veritate/wiki)*.
