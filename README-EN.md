@@ -1,24 +1,25 @@
 # Veritate - Fact Check Search and Aggregator
 
-A **fact checking agregator** for Brazilian news and politics. A non-profit experiment.
+A non-profit experiment with the mission of strenghtening _fact checing_ in Brazil. Comprised by an [Crawler/Indexer](#crawler-indexer), [Public Index API](public-index-api) and **Fact Check** [Aggregator/Search](aggregator-search) for Brazilian news and politics.
+
 <hr>
 
 > **Para versão em português, [clique aqui](README.md).**
 
 <hr>
 
-> For more information, suggestions for fact check sites or to ask for removal of content violating copyright laws, please, send an email to veritate{at}wowperations[dot]com[dot]br
+> For more information, suggestions of new fact check outlets or to ask for removal of content, please, open an issue [at the project repository](https://github.com/celsobessa/veritate/issues) or send an email to veritate{at}wowperations[dot]com[dot]br
 
-## Sobre a iniciativa
+## About Veritate Initiative
 
-Developed by [Celso Bessa](https://www.celsobessa.com.br) with infrastructure support from [WoWPerations](https://www.wowperations.com.br), this is an experimental project, a proof of concept for a Fact Check crawler, aggregator and API focused on Brazilian news andp politics. The project goals are:
+Developed by [Celso Bessa](https://www.celsobessa.com.br) with infrastructure support from [WoWPerations](https://www.wowperations.com.br), this is an experimental project with the mission of strenghtening _fact checing_ in Brazil. Comprised by an [Crawler/Indexer](#crawler-indexer), [Public Index API](public-index-api) and **Fact Check** [Aggregator/Search](aggregator-search) for Brazilian news and politics.
 
-- Investigate, study and experiment with technologia, algorhythms, UX and design patters for improve algorhythm assisted journalism.
+- Research, experiment, develop and spread technologies, algorithms, design patterns and best practices for the improvement of digital journalism.
 - Improve access to high quality journalism
 - Instigate fact checking sharing and critical thinking against _fake news_
-- Instigate critical thinking and informed decisions about politics and votes
+- Instigate critical thinking and well informed decisions about politics and votes
 
-Initially, the project will be comprised by an [Crawler/Indexer](#crawler-indexer), [Public Index API](public-index-api) and [Aggregator](aggregator-search).
+Initially, the project is comprised by an [Crawler/Indexer](#crawler-indexer), [Public Index API](public-index-api) and [Aggregator/Search](aggregator-search).
 
 > If you understand brazilian portuguese, thhere is a *[Wiki](https://github.com/celsobessa/veritate/wiki)* with more in-depth information
 
