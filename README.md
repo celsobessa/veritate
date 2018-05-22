@@ -1,6 +1,6 @@
 # Veritate - Agregador e Buscador de Checagem de Fatos
 
-Veritate é um **projeto experimental sem fins lucrativos** de agregador/buscador reunindo artigos diversas agências de **checagem de fatos**.
+Veritate é um **projeto experimental sem fins lucrativos** para fortalecer checagens de fatos no Brasil. Composto por [Indexador](#indexador), [Índice Público/API](#indice-publico-api), e [Agregador/Busca](#agregador-busca) reunindo artigos diversas agências de **checagem de fatos**.
 <hr>
 
 > **For english version, [click here](README-EN.md).**
@@ -11,15 +11,15 @@ Veritate é um **projeto experimental sem fins lucrativos** de agregador/buscado
 
 ## Sobre a iniciativa
 
-Idealizado pelo desenvolvedor <a href="https://www.celsobessa.com.br">Celso Bessa</a>, com suporte em hospedagem e infra-estrutura: <a href="https://www.wowperations.com.br">WoWPerations</a>, a iniciativa  Veritate tem como objetivos:
+Idealizado pelo desenvolvedor <a href="https://www.celsobessa.com.br">Celso Bessa</a>, com suporte em hospedagem e infra-estrutura: <a href="https://www.wowperations.com.br">WoWPerations</a>, a Iniciativa Veritate tem como missão fortalecer o jornalismo de checagem de fatos no Brasil:
 
 - Incentivar o consumo de jornalismo de qualidade
 - Estimular o compartilhamento de checagens de fatos
 - Instigar o senso crítico a respeito de notícias falsas (_Fake News_)
-- Fornecer uma ferramenta que ajude as pessoas a tomar decisões baseadas em informações verídicas
-- Investigar, estudar e experimentar tecnologias, algoritmo, padrões de design, experiência de uso em buscas, e jornalismo intermediado por algoritmo
+- Fornecer ferramentas que ajude as pessoas a tomar decisões baseadas em informações verídicas
+- Pesquisar, experimentar, desenvolver e divulgar tecnologias, algoritmos, padrões de design e melhores práticas para jornalismo digital.
 
-Inicialmente, a iniciativa terá os seguintes componentes: [Indexador](#indexador), [Índice Público/API](#indice-publico-api), e [Agregador/Busca](#agregador-busca).
+Inicialmente, a iniciativa conta com os seguintes componentes: [Indexador](#indexador), [Índice Público/API](#indice-publico-api), e [Agregador/Busca](#agregador-busca).
 
 ### Visão Geral - Veritate
 
