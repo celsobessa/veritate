@@ -1,6 +1,6 @@
 # Veritate - Fact Check Search and Aggregator
 
-A non-profit experiment with the mission of strenghtening _fact checing_ in Brazil. Comprised by an [Crawler/Indexer](#crawler-indexer), [Public Index API](public-index-api) and **Fact Check** [Aggregator/Search](aggregator-search) for Brazilian news and politics.
+A non-profit experiment with the mission of strenghtening _fact checing_ in Brazil. Comprised by an [Crawler/Indexer](https://github.com/celsobessa/veritate/wiki#crawler-indexer), [Public Index API](https://github.com/celsobessa/veritate/wiki#public-index-api) and **Fact Check** [Aggregator/Search](https://github.com/celsobessa/veritate/wiki#aggregator-search) for Brazilian news and politics.
 
 <hr>
 
@@ -12,7 +12,7 @@ A non-profit experiment with the mission of strenghtening _fact checing_ in Braz
 
 ## About Veritate Initiative
 
-Developed by [Celso Bessa](https://www.celsobessa.com.br) with infrastructure support from [WoWPerations](https://www.wowperations.com.br), this is an experimental project with the mission of strenghtening _fact checing_ in Brazil. Comprised by an [Crawler/Indexer](#crawler-indexer), [Public Index API](public-index-api) and **Fact Check** [Aggregator/Search](aggregator-search) for Brazilian news and politics.
+Developed by [Celso Bessa](https://www.celsobessa.com.br) with infrastructure support from [WoWPerations](https://www.wowperations.com.br), this is an experimental project with the mission of strenghtening _fact checing_ in Brazil. Comprised by an Crawler/Indexer, Public Index API and **Fact Check** Aggregator/Search for Brazilian news and politics.
 
 - Research, experiment, develop and spread technologies, algorithms, design patterns and best practices for the improvement of digital journalism.
 - Improve access to high quality journalism

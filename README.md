@@ -1,6 +1,6 @@
 # Veritate - Agregador e Buscador de Checagem de Fatos
 
-Veritate é um **projeto experimental sem fins lucrativos** para fortalecer checagens de fatos no Brasil. Composto por [Indexador](#indexador), [Índice Público/API](#indice-publico-api), e [Agregador/Busca](#agregador-busca) reunindo artigos diversas agências de **checagem de fatos**.
+Veritate é um **projeto experimental sem fins lucrativos** para fortalecer checagens de fatos no Brasil. Composto por [Indexador](https://github.com/celsobessa/veritate/wiki#indexador), [Índice Público/API](https://github.com/celsobessa/veritate/wiki#indice-publico-api), e [Agregador/Busca](https://github.com/celsobessa/veritate/wiki#agregador-busca) reunindo artigos diversas agências de **checagem de fatos**.
 <hr>
 
 > **For english version, [click here](README-EN.md).**
@@ -19,7 +19,7 @@ Idealizado pelo desenvolvedor <a href="https://www.celsobessa.com.br">Celso Bess
 - Fornecer ferramentas que ajude as pessoas a tomar decisões baseadas em informações verídicas
 - Pesquisar, experimentar, desenvolver e divulgar tecnologias, algoritmos, padrões de design e melhores práticas para jornalismo digital.
 
-Inicialmente, a iniciativa conta com os seguintes componentes: [Indexador](#indexador), [Índice Público/API](#indice-publico-api), e [Agregador/Busca](#agregador-busca).
+Inicialmente, a iniciativa conta com os seguintes componentes: Indexador, Índice Público/API e Agregador/Busca.
 
 ### Visão Geral - Veritate
 
