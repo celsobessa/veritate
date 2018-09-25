@@ -1,7 +1,7 @@
 # Changelog
 Project: Veritate Initiative - Fact Check Search and Aggregator)
 Description: A non-profit **fact checking aggregator** for Brazilian news and politics.
-Version:     0.3.3
+Version:     0.4.0
 Author:      Celso Bessa
 Author URI:  https://www.celsobessa.com.br
 License:     GPL-2.0+
@@ -10,10 +10,13 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.txt
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/)
 
-## 0.4.0  - WIP
+## 0.4.0  - [2018-09-25]
 
 ### Added
 - ISSUE_TEMPLATE.md and PULL_REQUEST_TEMPLATE.md for better collaboration and contribution
+
+### Changed
+- updated crawler, API and search components
 
 ## 0.3.2  - [2018-05-22]
 
